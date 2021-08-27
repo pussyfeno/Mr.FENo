@@ -1,0 +1,5 @@
+ss = int(input("Enter Your Born Year :"))
+se = int(input("Enter Current Year :"))
+rs = se-ss
+
+print (rs)
